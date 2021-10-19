@@ -1,0 +1,94 @@
+WEBVTT
+
+00:01.140 --> 00:05.330
+Welcome I hope that you're ready to learn a ton about re-act native.
+
+00:05.340 --> 00:08.390
+My name is Stephen Greider and I will be your instructor.
+
+00:08.400 --> 00:13.530
+I've written many courses on react and this course in particular is my second course focused on Riak
+
+00:13.530 --> 00:14.460
+native.
+
+00:14.460 --> 00:20.490
+I have collected a tremendous amount of feedback on why students want to learn Riak native and this
+
+00:20.490 --> 00:23.270
+course is kind of like the culmination of that effort.
+
+00:23.520 --> 00:28.290
+Every topic is carefully presented in a very specific order to make sure that you can walk away from
+
+00:28.290 --> 00:33.010
+this course with the skills that you need to build awesome native applications.
+
+00:33.150 --> 00:37.980
+So the overwhelming goal here like the thing we're really going to drive home towards is building usable
+
+00:37.980 --> 00:43.090
+real applications in addition to just you know learning hey what the heck is Riak native.
+
+00:43.140 --> 00:47.080
+My goal with this course is to start coding on real projects as soon as possible.
+
+00:47.190 --> 00:52.410
+But Riak native makes that just a little bit difficult as it requires a little environment set up ahead
+
+00:52.410 --> 00:56.880
+of time so we're going to go through a little bit of getting started stuff in the next couple of sections
+
+00:56.880 --> 00:59.810
+before we start Rikan our first application.
+
+00:59.970 --> 01:04.080
+Even if you already ran through the reality of installation if you could do it like you know a couple
+
+01:04.080 --> 01:06.780
+of months ago hey no problem you'd probably skip it.
+
+01:06.900 --> 01:11.610
+But if you install re-act native like when it first came out then I really recommend that you go through
+
+01:11.610 --> 01:18.240
+the installation directions because set up with Riak native is kind of a little bit notoriously difficult.
+
+01:18.240 --> 01:21.680
+Now one quick word about compact compatibility with their operating system.
+
+01:21.780 --> 01:24.660
+If you're using OSX so you're using a Mac.
+
+01:24.840 --> 01:28.580
+We will be going through set up with both iOS and Android.
+
+01:28.690 --> 01:35.010
+So need to run iOS and Android applications and if using Windows will be setting up just Android because
+
+01:35.010 --> 01:41.160
+Windows does not have Iowa support with re-act need it just yet officially I should say the official
+
+01:41.160 --> 01:45.540
+Riak native documentation has instructions for set up with Linux as well.
+
+01:45.690 --> 01:48.660
+So if you're running Linux you can certainly go through those directions.
+
+01:48.660 --> 01:51.330
+But we will not be going through it on this course.
+
+01:51.390 --> 01:53.060
+Do the actual videos.
+
+01:53.520 --> 01:58.550
+Every app that we build in this course is going to be 100 percent compatible with both iOS and Android.
+
+01:58.710 --> 02:00.830
+So no need to sweat getting left in the cold.
+
+02:00.840 --> 02:03.310
+If you do not have the perfect OS setup.
+
+02:03.510 --> 02:07.680
+So with that in mind let's get started with our environment setup in the next section

@@ -1,0 +1,13 @@
+[Tue Mar 30 2021 11:17:07.316]  LOG      item: baseUrl  
+{"about_episode": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.", "episode_no": 2,
+ "episode_poster": "1596533521.jpg", "id": 4, "season_id": 1, "serial_episode": "1596281019.mp4", 
+ "serial_id": 1, "serial_name": "The Bachelors", "status": 1} 
+ {"banner_url": "http://nokelstv.com/suadmin/upload/serial/episode_banner/", 
+ "episode_url": "http://nokelstv.com/suadmin/upload/serial/serial_episode/", 
+ "poster_url": "http://nokelstv.com/suadmin/upload/serial/serial_poster/"}
+
+ 
+[Tue Mar 30 2021 11:17:20.625]  LOG      item: baseUrl 
+ {"banner_url": "http://nokelstv.com/suadmin/upload/serial/episode_banner/", "episode_url":
+  "http://nokelstv.com/suadmin/upload/serial/serial_episode/", "poster_url":
+   "http://nokelstv.com/suadmin/upload/serial/serial_poster/"}

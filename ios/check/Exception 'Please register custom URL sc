@@ -1,0 +1,39 @@
+Exception 'Please register custom URL scheme 'app-1-780494301690-ios-afe771db2645f88c6d1c43' in the app's Info.plist file.' was thrown while invoking signInWithPhoneNumber on target RNFBAuthModule with params (
+    "[DEFAULT]",
+    "+919111365067",
+    14546,
+    14547
+)
+callstack: (
+	0   CoreFoundation                      0x00007fff2041daf2 __exceptionPreprocess + 242
+	1   libobjc.A.dylib                     0x00007fff20177e78 objc_exception_throw + 48
+	2   CoreFoundation                      0x00007fff2041d9d0 -[NSException initWithCoder:] + 0
+	3   check                               0x0000000102075921 -[FIRPhoneAuthProvider verifyPhoneNumber:UIDelegate:completion:] + 193
+	4   check                               0x00000001021fa1c6 -[RNFBAuthModule signInWithPhoneNumber::::] + 438
+	5   CoreFoundation                      0x00007fff204242fc __invoking___ + 140
+	6   CoreFoundation                      0x00007fff204217b2 -[NSInvocation invoke] + 303
+	7   CoreFoundation                      0x00007fff20421a43 -[NSInvocation invokeWithTarget:] + 70
+	8   check                               0x00000001022fc9f4 -[RCTModuleMethod invokeWithBridge:module:arguments:] + 2660
+	9   check                               0x0000000102300b9e _ZN8facebook5reactL11invokeInnerEP9RCTBridgeP13RCTModuleDatajRKN5folly7dynamicE + 814
+	10  check                               0x0000000102300666 _ZZN8facebook5react15RCTNativeModule6invokeEjON5folly7dynamicEiENK3$_0clEv + 134
+	11  check                               0x00000001023005cc ___ZN8facebook5react15RCTNativeModule6invokeEjON5folly7dynamicEi_block_invoke + 28
+	12  libdispatch.dylib                   0x0000000104cc87ec _dispatch_call_block_and_release + 12
+	13  libdispatch.dylib                   0x0000000104cc99c8 _dispatch_client_callout + 8
+	14  libdispatch.dylib                   0x0000000104cd0296 _dispatch_lane_serial_drain + 796
+	15  libdispatch.dylib                   0x0000000104cd0f67 _dispatch_lane_invoke + 439
+	16  libdispatch.dylib                   0x0000000104cdcde2 _dispatch_workloop_worker_thread + 882
+	17  libsystem_pthread.dylib             0x00007fff5e739a3d _pthread_wqthread + 290
+	18  libsystem_pthread.dylib             0x00007fff5e738b77 start_wqthread + 15
+)
+
+RCTFatal
+facebook::react::invokeInner(RCTBridge*, RCTModuleData*, unsigned int, folly::dynamic const&)
+facebook::react::RCTNativeModule::invoke(unsigned int, folly::dynamic&&, int)::$_0::operator()() const
+invocation function for block in facebook::react::RCTNativeModule::invoke(unsigned int, folly::dynamic&&, int)
+_dispatch_call_block_and_release
+_dispatch_client_callout
+_dispatch_lane_serial_drain
+_dispatch_lane_invoke
+_dispatch_workloop_worker_thread
+_pthread_wqthread
+start_wqthread

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "780494301690",
+    "project_id": "nokelstv",
+    "storage_bucket": "nokelstv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780494301690:android:6f74ecfb90a47dab6d1c43",
+        "android_client_info": {
+          "package_name": "com.nokelstv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780494301690-0qq9hhm1c1vno35e797nag4mfq4l00dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nokelstv",
+            "certificate_hash": "2333e18504927ebe2b451fdb41553ae8684ff47c"
+          }
+        },
+        {
+          "client_id": "780494301690-v43dqvmsb1rlkkags0cmnuj7dbvmhkoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nokelstv",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "780494301690-mah2et8lrb3mlhdd0dbvj889181e878c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIrawP4O__GQdzO7H2KQ_40yBgaQWl7fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780494301690-mah2et8lrb3mlhdd0dbvj889181e878c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

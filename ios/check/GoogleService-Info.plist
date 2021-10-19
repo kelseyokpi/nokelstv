@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>780494301690-ejurin40tsspp6n7ggji1v9ihrffj1l9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.780494301690-ejurin40tsspp6n7ggji1v9ihrffj1l9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>780494301690-0qq9hhm1c1vno35e797nag4mfq4l00dj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6w69nOZodXkXMHHuJQOHKyCiTqDYF4pY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>780494301690</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nokelstv</string>
+	<key>PROJECT_ID</key>
+	<string>nokelstv</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nokelstv.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:780494301690:ios:afe771db2645f88c6d1c43</string>
+</dict>
+</plist>
